@@ -25,4 +25,11 @@ For training:
   4. `functools` 
   
   number 3 and 4 is needed when using [multi threaded](https://github.com/hodaVS/Parameter-estimation-using-residual-neural-network/blob/main/Drift-Difusison%20models/Collapsing%20DDM/Data_Generation/CB_DataSet/Data_generation-Collapsing-Multi_threaded.ipynb)
+  
+  
+---
+
+## Trained model
+
+> To run inference from the SavedModels click on [ [MVN]() , [MR]() , [DDM]() , [C-DDM]() ]
 
