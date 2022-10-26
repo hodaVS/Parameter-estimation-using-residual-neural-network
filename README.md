@@ -29,7 +29,7 @@ For training:
   
 ---
 
-## Trained model
+## Trained model (To Do)
 
 > To run inference from the SavedModels click on [ [MVN]() , [MR]() , [DDM]() , [C-DDM]() ]
 
