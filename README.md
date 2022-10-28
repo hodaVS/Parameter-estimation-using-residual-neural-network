@@ -31,6 +31,5 @@ For training:
 ---
 
 ## Trained model (To Do)
-
-> To run inference from the SavedModels click on [ [MVN]() , [MR]() , [DDM](https://github.com/hodaVS/Parameter-estimation-using-residual-neural-network/blob/main/trained%20moedels/Resnet_DDM.h5) , [C-DDM]() ]
+To run inference from the saved models, click on [ [MVN]() , [MR]() , [DDM](https://github.com/hodaVS/Parameter-estimation-using-residual-neural-network/blob/main/trained%20moedels/Resnet_DDM.h5) , [C-DDM]() ]
 
