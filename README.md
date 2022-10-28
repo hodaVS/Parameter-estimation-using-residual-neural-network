@@ -30,6 +30,6 @@ For training:
   
 ---
 
-## Trained model
+## Pre-trained models
 To run inference from the saved models, click on [ [MVN](https://github.com/hodaVS/Parameter-estimation-using-residual-neural-network/blob/main/trained%20models/Resnet_MVN.h5) , [MR](https://github.com/hodaVS/Parameter-estimation-using-residual-neural-network/blob/main/trained%20models/Resnet_MR.h5) , [DDM](https://github.com/hodaVS/Parameter-estimation-using-residual-neural-network/blob/main/trained%20models/Resnet_DDM.h5) , [C-DDM](https://github.com/hodaVS/Parameter-estimation-using-residual-neural-network/blob/main/trained%20models/Resnet_CDDM.h5) ]
 
